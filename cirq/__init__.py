@@ -419,6 +419,7 @@ from cirq.protocols import (
     qid_shape,
     read_json,
     resolve_parameters,
+    schmidt_decomposition,
     SupportsApplyChannel,
     SupportsApplyMixture,
     SupportsConsistentApplyUnitary,

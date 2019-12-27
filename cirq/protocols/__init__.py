@@ -105,6 +105,7 @@ from cirq.protocols.resolve_parameters import (
     resolve_parameters,
     SupportsParameterization,
 )
+from cirq.protocols.schmidt_protocol import (schmidt_decomposition)
 from cirq.protocols.phase_protocol import (
     phase_by,
     SupportsPhase,
